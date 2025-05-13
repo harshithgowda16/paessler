@@ -1,0 +1,26 @@
+[
+ {
+    "Name": "Paessler",
+    "Language": "English",
+    "BaseURL": "https://github.com/CloudLabsAI-Azure/Paessler/tree/main/Labs/Custom%20Lab",
+    "Files": [
+     {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/paessler/main/Labs/Custom%20Lab/Introduction.md",
+        "Order": 1
+     },
+     {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/paessler/main/Labs/Custom%20Lab/LAB01-Install%20PRTG.md",
+        "Order": 2
+     },
+     {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/paessler/main/Labs/Custom%20Lab/LAB02-Install-Classic-Remote-Probe.md",
+        "Order": 3
+     },
+     {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Paessler/main/Labs/Custom%20Lab/LAB03-Build-PRTG-Cluster.md",
+        "Order": 4
+     },
+     
+    ] 
+  }
+]  
